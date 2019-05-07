@@ -3,3 +3,6 @@
 /storage/
 /litemall.iml
 .idea
+.project
+.settings/
+.classpath
